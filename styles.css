@@ -11,3 +11,20 @@ h2, h1 {
 header {
   border-bottom: 5px solid red;
 }
+
+.class-list {
+  list-style-type: square;
+}
+
+.item {
+  border: 1px solid blue;
+}
+
+.even {
+  background-color: grey;
+}
+
+.odd {
+  background-color: black;
+  color: white;
+}
